@@ -1,9 +1,10 @@
+/*logo properties*/
 .logo {
     padding-top: 5em;
     width: 100px;
     
 }
-
+/*heading*/
 .h1{
 margin: 0;
  font-size: 4.286em;
@@ -18,11 +19,12 @@ margin-bottom: 0.0px;
 	text-align: right;
 	
 	}
-
+/*horizontal line*/
 hr{
 	border: 2px solid #7d97ad;
 
 }
+/*main image*/
 
 .image{
 	margin-top: 20px;
@@ -36,7 +38,7 @@ hr{
 	color: #7d97ad;
 	padding-left: 5px;
 }
-
+/*projects*/
 .proj1{
 		width: 100%;
 		box-shadow: 10px -10px 5px 0px rgba(186,182,186,1);
